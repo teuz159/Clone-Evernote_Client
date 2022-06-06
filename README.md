@@ -19,7 +19,8 @@ Para construção do FrontEND, foram utilizadas as seguintes tecnologias:
 
 ## Funcionamento
 
-O aplicativo tem 5 principais telas. A tela Inicial, Login e Registro, Notas e Edição de Usuário. Com utilização do AXIOS as telas são conectadas com o BackEnd
+O aplicativo tem 5 principais telas. A tela Inicial, Login e Registro, Notas e Edição de Usuário. Com utilização do AXIOS as telas são conectadas com o BackEnd<br>
+Deploy: [JavaScript Notes](https://app-notes-client.herokuapp.com/)
 
 ## Utilizar
 1. `git clone https://github.com/teuz159/Clone-Evernote_Client.git` para clonar o projeto
